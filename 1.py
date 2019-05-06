@@ -1,3 +1,3 @@
-a=2
-b=print('change my mind.')
-c=b
+a=1
+b=print('change your mind.')
+#I love pythonS
